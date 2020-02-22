@@ -47,5 +47,5 @@ def decoding(s):
 # print(decoding('111'))
 # print(decoding('1263'))
 
-for aa in allPartitions('1354'):
+for aa in allPartitions('World'):
     print(aa)
